@@ -4,7 +4,6 @@ This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realm
 --To use this repository, download it and
 
 use Mudlet's package installer to import the the RoD_GUI.mpackage file. To get rid of it, use the package installer to uninstall it.
-you can alternativly download the RoD_GUI.trigger and import it through the module installer if needed.
 You can enable and disable individual items.
 use Mudlet's Options -> Preferences -> Mapper -> Load Map and load the map (.dat) file. Note - you need a) Jor'Mox's generic mapper package installed, and need to do a "map update".
 b) And a "find prompt" may also be necessary after that.
@@ -15,7 +14,7 @@ Scripts use default prompt to activate so if at any time your having issues just
 
 Thanks to aesatchien for his project at https://github.com/aesatchien/Rod_Mudlet
 
-DISCLAIMER: I am not a pro coder so please excuse any errors and provid feedback if you can!
+DISCLAIMER: THIS IS A WIP! I am not a pro coder so please excuse any errors and provid feedback if you can!
 
 mud mail me - Sylune
 
