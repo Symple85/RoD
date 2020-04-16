@@ -1,5 +1,6 @@
 # RoD
 This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realms of Despair.
+Thanks to aesatchien for his project at https://github.com/aesatchien/Rod_Mudlet
 
 --To use this repository, download it and
 
@@ -11,8 +12,6 @@ c) You need a "map ignore %s%s.* to keep the map from pulling in the RoD compass
 
 
 Scripts use default prompt to activate so if at any time your having issues just type prompt default to reset most stuff
-
-Thanks to aesatchien for his project at https://github.com/aesatchien/Rod_Mudlet
 
 DISCLAIMER: THIS IS A WIP! I am not a pro coder so please excuse any errors and provid feedback if you can!
 
