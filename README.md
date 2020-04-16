@@ -3,6 +3,8 @@ This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realm
 
 Thanks to aesatchien for his project at https://github.com/aesatchien/Rod_Mudlet
 
+Thanks a ton for all the hard working people who make https://rodpedia.realmsofdespair.info/ possible! all maps and directions were obtained from there.
+
 --To use this repository, download it and
 
 use Mudlet's package installer to import the the RoD_GUI.mpackage file. To get rid of it, use the package installer to uninstall it.
