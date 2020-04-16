@@ -1,4 +1,7 @@
 # RoD
+IT NEEDS THE NEWEST TEST VERSION OF MUDLET FOR THE FLYOUT MAPS TO WORK PROPERLY!
+https://make.mudlet.org/snapshots/
+
 This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realms of Despair.
 
 Thanks to aesatchien for his project at https://github.com/aesatchien/Rod_Mudlet
