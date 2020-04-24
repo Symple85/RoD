@@ -20,7 +20,9 @@ b) And a "find prompt" may also be necessary after that.
 c) You need a "map ignore %s%s.* to keep the map from pulling in the RoD compass on your room names. It should use aesatchiens map then.
 
 
-Scripts prompt to trigger most events, MSDP handles what it can.
+Scripts use prompts to trigger most events, MSDP handles what it can.
+You will need to set your prompt to default to get the used prompt or edit the prompt trigger to reflect your prompt.
+If you edit the prompt trigger make sure to include <> at the end of your Fprompt for the fight tracking stuff to work!
 
 DISCLAIMER: THIS IS A WIP! I am not a pro coder so please excuse any errors and provid feedback if you can!
 
