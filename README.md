@@ -7,7 +7,7 @@ You need to enable MSDP from the world settings menu before connecting to the wo
 This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realms of Despair.
 
 Thanks to aesatchien for his project at https://github.com/aesatchien/Rod_Mudlet
-Thanks to Demonnic for his help on the Mudlet Discord at https://discordapp.com/invite/w86xfu
+Thanks to Demonnic and Delrayne for their help - Mudlet Discord at https://discordapp.com/invite/w86xfu
 Thanks a ton for all the hard working people who make https://rodpedia.realmsofdespair.info/ possible! all maps and directions were obtained from there.
 
 --To use this repository, download it and
