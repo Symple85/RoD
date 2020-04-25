@@ -29,6 +29,6 @@ DISCLAIMER: THIS IS A WIP! I am not a pro coder so please excuse any errors and 
 mud mail me - Ardan or Sylune
 
 <a href="https://ibb.co/7vh8p3f"><img src="https://i.ibb.co/Q90zHWg/screen1.png" alt="screen1" border="0"></a>
-<a href="https://ibb.co/f8W67bZ"><img src="https://i.ibb.co/cb9fdPR/screen2.png" alt="screen2" border="0"></a>
+<a href="https://ibb.co/cvkLNB3"><img src="https://i.ibb.co/Qcpd6gQ/screen2.png" alt="screen2" border="0"></a>
 <a href="https://ibb.co/cD7LnPx"><img src="https://i.ibb.co/RzVyw17/screen3.png" alt="screen3" border="0"></a>
 <a href="https://ibb.co/TrsD6Lz"><img src="https://i.ibb.co/25T0xNX/screen4.png" alt="screen4" border="0"></a>
