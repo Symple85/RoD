@@ -14,8 +14,8 @@ Thanks a ton for all the hard working people who make https://rodpedia.realmsofd
 
 use Mudlet's package installer to import the the RoD_GUI.mpackage file. To get rid of it, use the package installer to uninstall it.
 You can enable and disable individual items.
-use Mudlet's Options -> Preferences -> Mapper -> Load Map and load the map (.dat) file. Note - you need
-a) Jor'Mox's generic mapper package installed, and need to do a "map update".
+Right click the mapper or use Mudlet's Options -> Preferences -> Mapper -> Load Map and load the map (.dat) file. Note - you need
+a) Jor'Mox's generic mapper package installed if its not already
 b) And a "find prompt" may also be necessary after that.
 c) You need a "map ignore %s%s.* to keep the map from pulling in the RoD compass on your room names. It should use aesatchiens map then.
 
