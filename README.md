@@ -1,8 +1,9 @@
 # RoD
-IT CURRENTLY NEEDS THE NEWEST TEST VERSION OF MUDLET TO WORK PROPERLY!
-https://make.mudlet.org/snapshots/
+IT CURRENTLY NEEDS THE NEWEST VERSION OF MUDLET TO WORK PROPERLY!
+https://www.mudlet.org/download/
 
 You need to enable MSDP from the world settings menu before connecting to the world or reconnect if it's installed while connected.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dgdsbtp/Server-Protocols.png" alt="Server-Protocols" border="0"></a>
 
 This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realms of Despair.
 
@@ -12,7 +13,7 @@ Thanks a ton for all the hard working people who make https://rodpedia.realmsofd
 
 --To use this repository, download it and
 
-use Mudlet's package installer to import the the RoD_GUI.mpackage file. To get rid of it, use the package installer to uninstall it.
+Drag it onto an open profile or use Mudlet's package installer to import the the RoD_GUI.mpackage file. To get rid of it, use the package installer to uninstall it.
 You can enable and disable individual items.
 Right click the mapper or use Mudlet's Options -> Preferences -> Mapper -> Load Map and load the map (.dat) file. Note - you need
 a) Jor'Mox's generic mapper package installed if its not already
@@ -28,7 +29,7 @@ DISCLAIMER: THIS IS A WIP! I am not a pro coder so please excuse any errors and 
 
 mud mail me - Ardan or Sylune
 
-<a href="https://ibb.co/4TsK5gj"><img src="https://i.ibb.co/sw5bMJF/screen1.png" alt="screen1" border="0"></a>
+<a href="https://ibb.co/K6pVLPc"><img src="https://i.ibb.co/319SM35/screen1.png" alt="screen1" border="0"></a>
 <a href="https://ibb.co/LR9Q4zy"><img src="https://i.ibb.co/MSP8qDH/screen2.png" alt="screen2" border="0"></a>
 <a href="https://ibb.co/wWPV4HC"><img src="https://i.ibb.co/3Nj2cXW/screen3.png" alt="screen3" border="0"></a>
 <a href="https://ibb.co/ZzgtKDh"><img src="https://i.ibb.co/RT6ZPwC/screen4.png" alt="screen4" border="0"></a>
