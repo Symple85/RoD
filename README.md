@@ -2,7 +2,7 @@
 IT CURRENTLY NEEDS THE NEWEST VERSION OF MUDLET TO WORK PROPERLY!
 https://www.mudlet.org/download/
 
-You need to enable MSDP from the world settings menu before connecting to the world or reconnect if it's installed while connected.
+You need to enable MSDP from the world settings menu before connecting to the world and reconnect if it's installed while connected.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dgdsbtp/Server-Protocols.png" alt="Server-Protocols" border="0"></a>
 
 This is a set of mudlet maps, scripts, triggers and aliases for Mudlet and Realms of Despair.
