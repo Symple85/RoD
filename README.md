@@ -1,5 +1,6 @@
 # RoD
 IT CURRENTLY NEEDS THE NEWEST VERSION OF MUDLET TO WORK PROPERLY!
+
 UI is made in 1920x1080 resolution, the LR is made in 1280x720 resolution
 https://www.mudlet.org/download/
 
