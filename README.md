@@ -4,7 +4,7 @@ https://make.mudlet.org/snapshots/3f2751/Mudlet-4.8.1-testing-79130c85-windows.z
 this should be fixed in a couple days
 build repo https://make.mudlet.org/snapshots/3f2751/
 
-UI is made in 1920x1080 resolution, the LR is made in 1280x720 resolution
+UI is made in 1920x1080 resolution, the LR is made in 1280x720 resolution and is behind in development
 
 
 You need to enable MSDP from the world settings menu before connecting to the world and reconnect if it's installed while connected.
