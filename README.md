@@ -4,6 +4,7 @@ https://www.mudlet.org/download/
 
 UI is made in 1920x1080 resolution, the LR is made in 1280x720 resolution and is behind in development
 
+video link to show some of the WIP https://youtu.be/XqwOTZIOfys
 
 You need to enable MSDP from the world settings menu before connecting to the world and reconnect if it's installed while connected.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/dgdsbtp/Server-Protocols.png" alt="Server-Protocols" border="0"></a>
